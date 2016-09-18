@@ -20,45 +20,72 @@ class LinkWidget
      */
     private $config = null;
 
+    /**
+     * @var array
+     */
+    private $widgets = [];
+
     public function __construct($userId)
     {
         $this->userId = $userId;
 
-        $this->load();
+        $this->load('user')->generate();
+
+        $this->load('general')->generate();
     }
 
-    public function load()
+    protected function load($profile)
     {
-        $file = 'clients'.DIRECTORY_SEPARATOR.$this->userId.DIRECTORY_SEPARATOR.'widgets.json';
+        $file = $this->getFile($profile);
 
         if (!Storage::exists($file)) {
-            return;
+            $this->config = null;
+
+            return $this;
         }
 
         $config = Storage::get($file);
 
         $this->config = json_decode($config);
 
-        return false;
+        return $this;
+    }
+
+    public function generate()
+    {
+        if ($this->config === null) {
+            return [];
+        }
+
+        foreach ($this->config->widgets as $widgetData) {
+            $this->widgets[] = Smallbox::named($widgetData->title)
+                                        ->primary()
+                                        ->body($widgetData->body)
+                                        ->linkTo($widgetData->linkTo)
+                                        ->linkName($widgetData->linkName)
+                                        ->withIcon($widgetData->icon);
+        }
+
+        return $this->widgets;
     }
 
     public function widgets()
     {
-        $widgets = [];
+        return $this->widgets;
+    }
 
-        if ($this->config === null) {
-            return $widgets;
+    protected function getFile($profile)
+    {
+        switch ($profile) {
+            case 'user':
+                $base = 'clients'.DIRECTORY_SEPARATOR.$this->userId.DIRECTORY_SEPARATOR;
+                break;
+            case 'general':
+            default:
+                $base = '';
+                break;
         }
 
-        foreach ($this->config->widgets as $widgetData) {
-            $widgets[] = Smallbox::named($widgetData->title)
-                        ->primary()
-                        ->body($widgetData->body)
-                        ->linkTo($widgetData->linkTo)
-                        ->linkName($widgetData->linkName)
-                        ->withIcon($widgetData->icon);
-        }
-
-        return $widgets;
+        return $base.'widgets.json';
     }
 }
