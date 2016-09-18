@@ -186,6 +186,7 @@ return [
 
         Alariva\Adminlter\AdminlterServiceProvider::class,
         Thomaswelton\LaravelGravatar\LaravelGravatarServiceProvider::class,
+        Spatie\UrlSigner\Laravel\UrlSignerServiceProvider::class,
 
     ],
 
@@ -269,6 +270,7 @@ return [
 
         'Smallbox' => Alariva\Adminlter\Facades\Smallbox::class,
         'Gravatar' => Thomaswelton\LaravelGravatar\Facades\Gravatar::class,
+        'UrlSigner' => Spatie\UrlSigner\Laravel\UrlSignerFacade::class,
 
     ],
 

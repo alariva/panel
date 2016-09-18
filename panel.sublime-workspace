@@ -1,0 +1,2797 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"wid",
+				"widgets"
+			],
+			[
+				"widget",
+				"widgetData"
+			],
+			[
+				"see",
+				"seedAdminRole"
+			],
+			[
+				"Snap",
+				"SnapshotStatusChanged"
+			],
+			[
+				"snap",
+				"snapshot"
+			],
+			[
+				"get",
+				"getAppointments"
+			],
+			[
+				"sta",
+				"STATUS_OK"
+			],
+			[
+				"UP",
+				"UPTIMEROBOT_STATUS_UP"
+			],
+			[
+				"clas",
+				"className"
+			],
+			[
+				"array_intersect_",
+				"array_intersect_key"
+			],
+			[
+				"array_fill",
+				"array_fill_keys"
+			],
+			[
+				"array_f",
+				"array_flip"
+			],
+			[
+				"rename",
+				"renameKeys"
+			],
+			[
+				"http",
+				"http_build_query"
+			],
+			[
+				"Business",
+				"BusinessToken"
+			],
+			[
+				"co",
+				"__construct"
+			],
+			[
+				"bus",
+				"business"
+			],
+			[
+				"dry",
+				"dryrun"
+			],
+			[
+				"file",
+				"filepath"
+			],
+			[
+				"root",
+				"rootlen"
+			],
+			[
+				"similar",
+				"similar_text"
+			],
+			[
+				"sha1",
+				"sha1_file"
+			],
+			[
+				"sha",
+				"sha1_file"
+			],
+			[
+				"Feed",
+				"FeedCommand"
+			],
+			[
+				"aspect",
+				"Aspect"
+			],
+			[
+				"create",
+				"createUser"
+			],
+			[
+				"submi",
+				"submitLabel"
+			],
+			[
+				"base_",
+				"base64_decode"
+			],
+			[
+				"aspe",
+				"aspectId"
+			],
+			[
+				"sna",
+				"snapshot"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"list",
+				"listAccounts"
+			],
+			[
+				"aspec",
+				"aspect_id"
+			],
+			[
+				"lang",
+				"language"
+			],
+			[
+				"mon",
+				"monitor"
+			],
+			[
+				"merge",
+				"mergeContact"
+			],
+			[
+				"tod",
+				"toDateTimeString"
+			],
+			[
+				"App",
+				"appointment"
+			],
+			[
+				"icalsyn",
+				"icalsync"
+			],
+			[
+				"humans",
+				"humanresources"
+			],
+			[
+				"busi",
+				"businessId"
+			],
+			[
+				"ical",
+				"icalFileContents"
+			],
+			[
+				"cal",
+				"calendar_link"
+			],
+			[
+				"ex",
+				"excludeDates"
+			],
+			[
+				"for",
+				"for	for …"
+			],
+			[
+				"end",
+				"endDate"
+			],
+			[
+				"getD",
+				"getDisabledDates"
+			],
+			[
+				"contro",
+				"Controller"
+			],
+			[
+				"Ava",
+				"AvailabilityService"
+			],
+			[
+				"icalc",
+				"icalchecker"
+			],
+			[
+				"Bus",
+				"Buenos_Aires"
+			],
+			[
+				"funct",
+				"function"
+			],
+			[
+				"ICa",
+				"ICalReader"
+			],
+			[
+				"regiter",
+				"registerICal"
+			],
+			[
+				"appoint",
+				"appointment"
+			],
+			[
+				"appoi",
+				"appointment"
+			],
+			[
+				"business",
+				"businessName"
+			],
+			[
+				"appo",
+				"appointment"
+			],
+			[
+				"appointment",
+				"appointment-notification"
+			],
+			[
+				"send",
+				"sendemail"
+			],
+			[
+				"setupStaff",
+				"setupStaffClass"
+			],
+			[
+				"Setup",
+				"SetupStaff"
+			],
+			[
+				"test",
+				"testTimezone"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"command",
+				"commandTester"
+			],
+			[
+				"Console",
+				"ConsoleApplication"
+			],
+			[
+				"app",
+				"appointments"
+			],
+			[
+				"User",
+				"userRepository"
+			],
+			[
+				"vaca",
+				"vacancy"
+			],
+			[
+				"human",
+				"humanresource"
+			],
+			[
+				"Prefe",
+				"PreferenceableStub"
+			],
+			[
+				"conta",
+				"Contact"
+			],
+			[
+				"address",
+				"addressbook"
+			],
+			[
+				"service",
+				"serviceId"
+			],
+			[
+				"contact",
+				"contactId"
+			],
+			[
+				"succes",
+				"successfully"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"check",
+				"checkbox"
+			],
+			[
+				"boot",
+				"bootstrap"
+			],
+			[
+				"boots",
+				"bootstrap-switch"
+			],
+			[
+				"x",
+				"xx-small"
+			],
+			[
+				"array_key",
+				"array_key_exists"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"font-s",
+				"font-size-adjust"
+			],
+			[
+				"disable",
+				"disabledDates"
+			],
+			[
+				"array_ke",
+				"array_key_exists"
+			],
+			[
+				"a",
+				"appointments"
+			],
+			[
+				"humanresources",
+				"humanresourcesList"
+			],
+			[
+				"preg_",
+				"preg_replace"
+			],
+			[
+				"replace",
+				"str_replace"
+			],
+			[
+				"it_publishes_",
+				"it_publishes_a_vacancy"
+			],
+			[
+				"humanresour",
+				"humanresourceId"
+			],
+			[
+				"Vacan",
+				"VacancyParser"
+			],
+			[
+				"strip",
+				"strip_tags"
+			],
+			[
+				"is_arra",
+				"is_array"
+			],
+			[
+				"id",
+				"vacancy_id"
+			],
+			[
+				"true",
+				"U_TRUNCATED_CHAR_FOUND"
+			],
+			[
+				"switch",
+				"switch	switch …"
+			],
+			[
+				"var_",
+				"var_dump"
+			],
+			[
+				"__co",
+				"__construct"
+			],
+			[
+				"array_s",
+				"array_sum"
+			],
+			[
+				"Arr",
+				"array_chunk"
+			],
+			[
+				"foreach",
+				"foreach	foreach …"
+			],
+			[
+				"expectedException",
+				"UnexpectedValueException"
+			],
+			[
+				"null",
+				"SQLITE3_NULL"
+			],
+			[
+				"ExpectedException",
+				"UnexpectedValueException"
+			],
+			[
+				"serialize",
+				"serialize"
+			],
+			[
+				"json_encode",
+				"json_encode"
+			],
+			[
+				"is_str",
+				"is_string"
+			],
+			[
+				"pro",
+				"property	@property"
+			],
+			[
+				"var_dump",
+				"var_dump"
+			],
+			[
+				"throws",
+				"throws	@throws"
+			],
+			[
+				"var_d",
+				"var_dump"
+			],
+			[
+				"__call",
+				"__call"
+			],
+			[
+				"prepare",
+				"PREG_PATTERN_ORDER"
+			],
+			[
+				"var_du",
+				"var_dump"
+			],
+			[
+				"is_strin",
+				"is_string"
+			],
+			[
+				"is_arr",
+				"is_array"
+			],
+			[
+				"if",
+				"if"
+			],
+			[
+				"array_mer",
+				"array_merge"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"array_walk",
+				"array_walk"
+			],
+			[
+				"array_map",
+				"array_map"
+			],
+			[
+				"array_keys",
+				"array_keys"
+			],
+			[
+				"str_replace",
+				"str_replace"
+			],
+			[
+				"array_re",
+				"array_replace"
+			],
+			[
+				"Timegr",
+				"timegrid"
+			],
+			[
+				"EOD",
+				"timezone_open()	date Function"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/Http/Controllers/Auth/AuthController.php",
+			"settings":
+			{
+				"buffer_size": 1961,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 400,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "gulpfile.js",
+			"settings":
+			{
+				"buffer_size": 586,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/CAP/Widgets/LinkWidget.php",
+			"settings":
+			{
+				"buffer_size": 1886,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "config/app.php",
+			"settings":
+			{
+				"buffer_size": 11713,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "routes/web.php",
+			"settings":
+			{
+				"buffer_size": 1623,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "panel.sublime-project",
+			"settings":
+			{
+				"buffer_size": 356,
+				"line_ending": "Unix",
+				"name": "{"
+			}
+		},
+		{
+			"file": "config/laravel-url-signer.php",
+			"settings":
+			{
+				"buffer_size": 463,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Http/Controllers/Auth/LoginController.php",
+			"settings":
+			{
+				"buffer_size": 960,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Http/Controllers/Auth/RegisterController.php",
+			"settings":
+			{
+				"buffer_size": 1768,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"List",
+					""
+				],
+				[
+					"Push",
+					""
+				],
+				[
+					"gitg",
+					""
+				],
+				[
+					"Packages/User/PHP.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/PHP.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"vmen",
+				"View: Toggle Menu"
+			],
+			[
+				"serve",
+				"Laravel Artisan 5: Serve"
+			],
+			[
+				"serv",
+				"Laravel Artisan: Serve"
+			],
+			[
+				"ser",
+				"Laravel Artisan: Serve"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			],
+			[
+				"theme",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"artisa",
+				"Laravel Artisan: Serve"
+			],
+			[
+				"artisan ",
+				"Laravel Artisan: Serve"
+			],
+			[
+				"artisan make co",
+				"Laravel Artisan: Make: Controller"
+			],
+			[
+				"PHPUnit: ",
+				"PHPUnit: Test current file"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"getter",
+				"Generate Getter for ..."
+			],
+			[
+				"toggle t",
+				"View: Toggle Tabs"
+			],
+			[
+				"status",
+				"View: Toggle Status Bar"
+			],
+			[
+				"extract",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"waka",
+				"WakaTime: Open Dashboard"
+			],
+			[
+				"wa",
+				"WakaTime: Open Dashboard"
+			],
+			[
+				"build",
+				"Build: New Build System"
+			],
+			[
+				"ma",
+				"Markdown Preview: Save to HTML"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"Package Control: Install Package ",
+				"Package Control: Install Package"
+			],
+			[
+				"g",
+				"GitGutter: Compare Against HEAD"
+			],
+			[
+				"",
+				"Build With: PHP"
+			],
+			[
+				"Package Control: rei",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"import",
+				"PHPCompanion:Import Namespace"
+			],
+			[
+				"Snippet: ",
+				"Snippet: #!/usr/bin/env"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"git status",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"echo \"OK\";",
+			"bash",
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/alariva/panel",
+		"/home/alariva/panel/app/CAP",
+		"/home/alariva/panel/app/CAP/Widgets",
+		"/home/alariva/panel/app/Http/Controllers/Frontoffice",
+		"/home/alariva/panel/packages/alariva",
+		"/home/alariva/panel/packages/alariva/adminlter",
+		"/home/alariva/panel/packages/alariva/adminlter/src/Adminlter",
+		"/home/alariva/panel/packages/alariva/adminlter/src/Adminlter/Bridges/Config",
+		"/home/alariva/panel/packages/alariva/adminlter/src/Adminlter/Exceptions",
+		"/home/alariva/panel/packages/alariva/adminlter/src/Adminlter/Facades",
+		"/home/alariva/panel/packages/alariva/adminlter/src/Adminlter/Interfaces",
+		"/home/alariva/panel/packages/alariva/adminlter/src/config",
+		"/home/alariva/panel/resources/lang/vendor/adminlte_lang",
+		"/home/alariva/panel/resources/lang/vendor/adminlte_lang/es",
+		"/home/alariva/panel/resources/views/frontoffice/dashboard",
+		"/home/alariva/panel/resources/views/frontoffice/terms-and-conditions",
+		"/home/alariva/panel/resources/views/layouts/partials",
+		"/home/alariva/panel/resources/views/vendor/notifications",
+		"/home/alariva/panel/storage/app/clients",
+		"/home/alariva/panel/storage/app/clients/1",
+		"/home/alariva/panel/vendor/patricktalmadge/bootstrapper",
+		"/home/alariva/panel/vendor/patricktalmadge/bootstrapper/src",
+		"/home/alariva/panel/vendor/patricktalmadge/bootstrapper/src/Bootstrapper"
+	],
+	"file_history":
+	[
+		"/home/alariva/panel/resources/views/layouts/partials/search.blade.php",
+		"/home/alariva/panel/config/gravatar.php",
+		"/home/alariva/panel/config/app.php",
+		"/home/alariva/panel/routes/web.php",
+		"/home/alariva/panel/app/Http/Controllers/Frontoffice/DashboardController.php",
+		"/home/alariva/panel/resources/views/frontoffice/dashboard/show.blade.php",
+		"/home/alariva/panel/packages/alariva/adminlter/src/Adminlter/Smallbox.php",
+		"/home/alariva/panel/resources/views/layouts/partials/sidebar.blade.php",
+		"/home/alariva/panel/resources/views/layouts/partials/controlsidebar.blade.php",
+		"/home/alariva/panel/resources/views/layouts/app.blade.php",
+		"/home/alariva/panel/resources/views/layouts/partials/mainheader.blade.php",
+		"/home/alariva/panel/routes/breadcrumbs.php",
+		"/home/alariva/panel/app/CAP/Widgets/LinkWidget.php",
+		"/home/alariva/panel/storage/app/clients/1/widgets.json",
+		"/home/alariva/panel/packages/alariva/adminlter/src/Adminlter/Attributes.php",
+		"/home/alariva/panel/resources/views/layouts/partials/contentheader.blade.php",
+		"/home/alariva/panel/.env",
+		"/home/alariva/panel/package.json",
+		"/home/alariva/panel/packages/alariva/adminlter/src/Adminlter/Facades/Smallbox.php",
+		"/home/alariva/panel/vendor/patricktalmadge/bootstrapper/src/Bootstrapper/Badge.php",
+		"/home/alariva/panel/vendor/patricktalmadge/bootstrapper/src/Bootstrapper/Button.php",
+		"/home/alariva/panel/packages/alariva/adminlter/src/Adminlter/RenderedObject.php",
+		"/home/alariva/panel/resources/lang/es/dashboard.php",
+		"/home/alariva/panel/resources/lang/es/nav.php",
+		"/home/alariva/panel/gulpfile.js",
+		"/home/alariva/panel/vendor/cdaguerre/php-trello-api/lib/Trello/Api/Member.php",
+		"/home/alariva/panel/config/trello.php",
+		"/home/alariva/panel/app/Http/Controllers/HomeController.php",
+		"/home/alariva/panel/packages/alariva/adminlter/composer.json",
+		"/home/alariva/panel/packages/alariva/adminlter/src/Adminlter/AdminlterServiceProvider.php",
+		"/home/alariva/panel/packages/alariva/adminlter/src/Adminlter/Facades/AdminlterFacade.php",
+		"/home/alariva/panel/packages/alariva/adminlter/src/config/config.php",
+		"/home/alariva/panel/packages/alariva/adminlter/src/Adminlter/Bridges/Config/Laravel5Config.php",
+		"/home/alariva/panel/packages/alariva/adminlter/src/Adminlter/Bridges/Config/ConfigInterface.php",
+		"/home/alariva/panel/vendor/cdaguerre/php-trello-api/lib/Trello/Manager.php",
+		"/home/alariva/panel/composer.json",
+		"/home/alariva/panel/vendor/cdaguerre/php-trello-api/lib/Trello/Client.php",
+		"/home/alariva/panel/vendor/cdaguerre/php-trello-api/lib/Trello/Api/Board.php",
+		"/home/alariva/panel/vendor/cdaguerre/php-trello-api/lib/Trello/Api/Organization.php",
+		"/home/alariva/panel/packages/alariva/adminlter/src/Adminlter/Exceptions/AccordionException.php",
+		"/home/alariva/panel/storage/app/public/terms-and-conditions.md",
+		"/home/alariva/panel/app/Http/Controllers/Frontoffice/TermsAndConditionsController.php",
+		"/home/alariva/panel/resources/views/frontoffice/terms-and-conditions/index.blade.php",
+		"/home/alariva/panel/resources/views/layouts/partials/footer.blade.php",
+		"/home/alariva/panel/resources/lang/es/app.php",
+		"/home/alariva/panel/app/Http/Middleware/RoleMiddleware.php",
+		"/home/alariva/panel/app/Http/Kernel.php",
+		"/home/alariva/panel/resources/views/home.blade.php",
+		"/home/alariva/panel/app/Http/Controllers/frontoffice/TermsAndConditionsController.php",
+		"/home/alariva/panel/database/seeds/RolesSeeder.php",
+		"/home/alariva/panel/app/User.php",
+		"/home/alariva/condor/database/migrations/2016_09_10_150551_create_issues_table.php",
+		"/home/alariva/timegrid.io/app/readme.md",
+		"/home/alariva/timegrid.io/app/app/TG/Business/Dashboard.php",
+		"/home/alariva/condor/vendor/patricktalmadge/bootstrapper/src/Bootstrapper/Form.php",
+		"/home/alariva/condor/tests/integration/Http/Controllers/Manage/ManageFeedControllerTest.php",
+		"/home/alariva/condor/app/Http/Controllers/Manage/FeedController.php",
+		"/home/alariva/condor/composer.json",
+		"/home/alariva/condor/resources/views/manage/feeds/create.blade.php",
+		"/home/alariva/condor/resources/views/manage/feeds/_form.blade.php",
+		"/home/alariva/Documents/projects/www/tecnoayudas.com.ar/productos-para-personas-con-baja-vision.html",
+		"/home/alariva/Documents/projects/www/tecnoayudas.com.ar/productos-para-personas-ciegas.html",
+		"/home/alariva/Documents/projects/www/tecnoayudas.com.ar/contacto.html",
+		"/home/alariva/Documents/projects/www/tecnoayudas.com.ar/index.html",
+		"/home/alariva/Documents/projects/www/tecnoayudas.com.ar/index6751.html",
+		"/home/alariva/clidummy/packages/Alariva/Cuentadigital/src/CuentadigitalServiceProvider.php",
+		"/home/alariva/clidummy/config/app.php",
+		"//",
+		"/home/alariva/clidummy/packages/Alariva/Cuentadigital/composer.json",
+		"/home/alariva/clidummy/packages/alariva/cuentadigital/src/CuentadigitalServiceProvider.php",
+		"/home/alariva/clidummy/packages/alariva/cuentadigital/src/Cuentadigital.php",
+		"/home/alariva/clidummy/app/Http/routes.php",
+		"/home/alariva/clidummy/resources/views/welcome.blade.php",
+		"/home/alariva/clidummy/packages/alariva/cuentadigital/composer.json",
+		"/home/alariva/clidummy/composer.lock",
+		"/home/alariva/clidummy/composer.json",
+		"/home/alariva/clidummy/.gitignore",
+		"/home/alariva/timegrid.io/app/composer.json",
+		"/home/alariva/timegrid.io/app/app/Providers/RouteServiceProvider.php",
+		"/home/alariva/timegrid.io/app/app/Http/Controllers/Manager/BusinessAgendaController.php",
+		"/home/alariva/timegrid.io/app/app/Http/Controllers/Manager/Search.php",
+		"/home/alariva/timegrid.io/app/app/TG/TransMail.php",
+		"/home/alariva/timegrid.io/app/app/TG/DetectTimezone.php",
+		"/home/alariva/timegrid.io/app/tests/integration/controllers/API/ICalControllerTest.php",
+		"/home/alariva/timegrid.io/app/app/TG/Business/Token.php",
+		"/home/alariva/timegrid.io/app/app/Http/Controllers/API/ICalController.php",
+		"/home/alariva/timegrid.io/app/app/Providers/AppServiceProvider.php",
+		"/home/alariva/timegrid.io/app/app/Listeners/AutoConfigureUserPreferences.php",
+		"/home/alariva/timegrid.io/app/app/Jobs/FetchICalFile.php",
+		"/home/alariva/timegrid.io/app/app/Http/Controllers/Manager/BusinessController.php",
+		"/home/alariva/timegrid.io/app/app/Http/Controllers/API/AvailabilityController.php",
+		"/home/alariva/timegrid.io/app/tests/unit/Listeners/SendSoftAppointmentValidationRequestTest.php",
+		"/home/alariva/timegrid.io/app/app/Console/Commands/SyncICal.php",
+		"/home/alariva/timegrid.io/app/app/TG/Business/BusinessToken.php",
+		"/home/alariva/timegrid.io/app/app/TG/SearchEngine.php",
+		"/home/alariva/timegrid.io/app/app/Console/Commands/AutopublishBusinessVacancies.php",
+		"/home/alariva/timegrid.io/app/app/Console/Commands/SendBusinessReport.php",
+		"/home/alariva/timegrid.io/app/app/Console/Commands/SendRootReport.php",
+		"/home/alariva/timegrid.io/app/app/Listeners/SendAppointmentCancellationNotification.php",
+		"/home/alariva/timegrid.io/app/app/Listeners/SendAppointmentConfirmationNotification.php",
+		"/home/alariva/timegrid.io/app/app/Listeners/SendBookingNotification.php",
+		"/home/alariva/timegrid.io/app/app/Listeners/SendMailUserWelcome.php",
+		"/home/alariva/timegrid.io/app/app/Listeners/SendSoftAppointmentValidationRequest.php",
+		"/home/alariva/timegrid.io/app/build/coverage/Console/Commands/SendRootReport.php.html",
+		"/home/alariva/timegrid.io/app/tests/unit/TransMailTest.php",
+		"/home/alariva/timegrid.io/app/tests/unit/Listeners/SendMailUserWelcomeTest.php",
+		"/home/alariva/timegrid.io/app/app/Services/Availability/AvailabilityService.php",
+		"/home/alariva/timegrid.io/app/app/TG/Availability/AvailabilityService.php",
+		"/home/alariva/timegrid.io/app/app/TG/Availability/ICalSyncService.php",
+		"/home/alariva/timegrid.io/app/build/coverage/Http/Controllers/Manager/BusinessController.php.html",
+		"/home/alariva/timegrid.io/app/tests/unit/Console/Commands/SyncICalTest.php",
+		"/home/alariva/timegrid.io/app/tests/unit/Services/DetectTimezoneUnitTest.php",
+		"/home/alariva/timegrid.io/app/tests/unit/Services/Availability/AvailabilityServiceUnitTest.php",
+		"/home/alariva/timegrid.io/app/tests/unit/Services/Availability/ICalSyncServiceUnitTest.php",
+		"/home/alariva/timegrid.io/app/tests/unit/Services/ICal/ICalCheckerUnitTest.php",
+		"/home/alariva/timegrid.io/app/app/TG/Business/Setup/SetupStaff.php",
+		"/home/alariva/timegrid.io/app/app/TG/BusinessService.php",
+		"/home/alariva/timegrid.io/app/app/TG/ICalChecker.php",
+		"/home/alariva/timegrid.io/app/bootstrap/cache/services.php",
+		"/home/alariva/timegrid.io/app/config/app.php",
+		"/home/alariva/timegrid.io/app/vendor/laravel/framework/src/Illuminate/Support/ServiceProvider.php",
+		"/home/alariva/timegrid.io/app/vendor/timegridio/concierge/vendor/composer/autoload_real.php",
+		"/home/alariva/timegrid.io/app/vendor/timegridio/concierge/src/TimegridioConciergeServiceProvider.php",
+		"/home/alariva/timegrid.io/app/vendor/timegridio/concierge/tests/TestCaseDB.php",
+		"/home/alariva/timegrid.io/app/vendor/timegridio/concierge/composer.json",
+		"/home/alariva/timegrid.io/app/vendor/timegridio/concierge/migrations/2016_07_09_000001_add_humanresource_calendar_link.php",
+		"/home/alariva/timegrid.io/app/tests/unit/migration/MigrationTest.php",
+		"/home/alariva/timegrid.io/app/vendor/timegridio/concierge/tests/unit/migrations/MigrationTest.php"
+	],
+	"find":
+	{
+		"height": 70.0
+	},
+	"find_in_files":
+	{
+		"height": 239.0,
+		"where_history":
+		[
+			"app/",
+			"resources/lang",
+			"app/",
+			"tests/",
+			"app/",
+			"tests/",
+			"tests",
+			"app/app",
+			"app/",
+			"tests/",
+			"app/",
+			"tests/",
+			"app/",
+			"app/app",
+			"tests/",
+			"tests",
+			"resources/views",
+			"app/app",
+			"resources/views/",
+			"app/app",
+			"tests/",
+			"app/app",
+			"app/",
+			"tests/",
+			"app/",
+			"app/app",
+			"app/",
+			"resources/views/",
+			"resources/lang/",
+			"app/",
+			"resources/views/",
+			"app/",
+			"config/",
+			"resources/",
+			"app/",
+			"tests/",
+			"vendor/laravel/framework/src",
+			"/",
+			"config/",
+			"app/",
+			"tests/",
+			"resources/views/",
+			"app/",
+			"tests/",
+			"app/",
+			"tests/",
+			"app/",
+			"tests/",
+			"app/",
+			"tests/",
+			"app/",
+			"app/app/",
+			"app/tests/",
+			"app/vendor/jenssegers/",
+			"app/vendor/",
+			"app/app/",
+			"app/resources/",
+			"app/config/",
+			"app/",
+			"app/app/",
+			"app/config/",
+			"app/app/",
+			"app/config/",
+			"app/app/",
+			"app/",
+			"app/app/",
+			"resources/",
+			"app/app/",
+			"app/",
+			"app/app/",
+			"resources/",
+			"vendor/snowfire/",
+			"resources/",
+			"vendor/",
+			"app/resources/",
+			"app/app/",
+			"app/resources/",
+			"app/app/",
+			"app/tests/",
+			"app/testing/",
+			"app/app/",
+			"app/",
+			"app/app/",
+			"app/tests/",
+			"app/app/",
+			"app/tests/",
+			"app/resources",
+			"app/",
+			"app/app/",
+			"vendor/",
+			"app/app/",
+			"app/app",
+			"vendor/",
+			"app/",
+			"app/app/",
+			"app/tests/",
+			"app/app/",
+			"tests/",
+			"app/app/",
+			"app/",
+			"resources/",
+			"",
+			"app/",
+			"tests/",
+			"app/",
+			"app",
+			"tests/",
+			"tests",
+			"app",
+			"tests",
+			"",
+			"resources",
+			"",
+			"./app/app",
+			"",
+			"/home/alariva/timegrid.io/app/app",
+			"/home/alariva/timegrid.io/app/resources",
+			"/home/alariva/timegrid.io/app/",
+			"/home/alariva/timegrid.io/app/app",
+			"/home/alariva/timegrid.io/app/",
+			"/home/alariva/timegrid.io/app/app",
+			"/home/alariva/timegrid.io/app/tests",
+			"/home/alariva/timegrid.io/app/",
+			"/home/alariva/timegrid.io/app/vendor/timegridio/concierge",
+			"/home/alariva/timegrid.io/app/",
+			"/home/alariva/timegrid.io/app/app",
+			"/home/alariva/timegrid.io/app/config",
+			"/home/alariva/timegrid.io/app/app"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"w",
+			"$w",
+			"value",
+			"withValue",
+			"value",
+			"content",
+			"$widgetData",
+			"user",
+			"tos",
+			"home",
+			"value",
+			"Value",
+			"value",
+			"Value",
+			"value",
+			"counter",
+			"box-",
+			"linkTo",
+			"body",
+			"name",
+			"linkTo",
+			"href",
+			"linkName",
+			"Bootstrapper",
+			"buttons",
+			"btn-",
+			"Bootstrapper",
+			"Adminlter",
+			"Bootstrapper",
+			"smallbox",
+			"accordion",
+			"Accordion",
+			"icon",
+			"counter",
+			"name",
+			"Bootstrapper",
+			"Accordion",
+			"bootstrapper",
+			"Bootstrapper",
+			"bootstrapper",
+			"Bootstrapper",
+			"terms-and-conditions",
+			"$boards",
+			"card",
+			"boards",
+			"show",
+			"boards",
+			"member",
+			"backoffice.",
+			"edit",
+			"'Bootstrapper",
+			"title",
+			"header",
+			"$admin",
+			"$clientRole",
+			"editTermsAndConditions",
+			"terms-and-conditions",
+			"tos",
+			"homestead",
+			"params",
+			"name",
+			"shapshot",
+			"Notification",
+			"protected",
+			"snapshot",
+			"createChecker",
+			"createCheckerObject",
+			"colorp",
+			"user",
+			"notifi",
+			"index",
+			"show",
+			"title_contacts_registered",
+			"dashboard",
+			"$business->",
+			"$business",
+			"dashboard",
+			"lead",
+			"parent",
+			"dump(",
+			"parent::STATUS_DOWN",
+			"self",
+			"status",
+			"return",
+			"$test",
+			"menu class",
+			"menu",
+			"index367e",
+			"index3e45",
+			"index9d1f",
+			"indexed91",
+			"productos.",
+			"index8ea6",
+			"index6751",
+			"index6f3e",
+			"hardw",
+			"software",
+			"Productos para personas ciegas",
+			"h2",
+			"h1",
+			"title",
+			"logo",
+			"h1",
+			"title=\"Servicio de Asesoramiento y Capacitación\"",
+			"servicio-de-asesoramiento-y-capacitacion.html",
+			"servicio-de-asesoramiento-y-capacitacion",
+			"soporte",
+			"h1",
+			"   ",
+			"  ",
+			"    ",
+			"index8ea6",
+			"index9764",
+			"index2d4d",
+			"novedades-TifloTecnologia",
+			"<li",
+			"index8ea6",
+			"index1bff",
+			"index578e",
+			"href=\"indexa4b6",
+			"indexa4b6",
+			"title=\"PRODUCTOS-PARA-PERSONAS-CON-BAJA-VISION\"",
+			"PRODUCTOS-PARA-PERSONAS-CON-BAJA-VISION",
+			"productos-para-personas-con-baja-vision",
+			"PRODUCTOS-PARA-PERSONAS-CON-BAJA-VISION",
+			"productos-para-personas-con-baja-vision",
+			"PRODUCTOS-PARA-PERSONAS-CON-BAJA-VISION",
+			"productos-para-personas-con-baja-vision"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"App\\TG\\TransMail",
+			"App\\TG",
+			"__METHOD__",
+			"(__CLASS__.':'.__METHOD__)",
+			"$this->info(__CLASS__.':'.__METHOD__);",
+			"auth()->id()",
+			"\\),\\n\\(",
+			"),\\n\\(",
+			"),\\n(",
+			"trans('manager.humanresource.",
+			"Timegridio\\Concierge\\Models\\Category",
+			"Timegridio\\Concierge\\Models\\Appointment",
+			"Timegridio\\Concierge\\Models\\Contact",
+			"Timegridio\\Concierge\\Models\\Business",
+			"Timegridio\\Concierge\\Models\\Vacancy",
+			"Timegridio\\Concierge\\Models\\Domain",
+			"Timegridio\\Concierge\\Models\\ServiceType",
+			"Timegridio\\Concierge\\Models\\Service",
+			"Factory::build",
+			"Timegridio\\Concierge\\Models\\",
+			"Timegridio\\Concierge\\VacancyManager",
+			"use Timegridio\\Concierge\\VacancyManager",
+			"use Timegridio\\Concierge\\Alfred as Concierge",
+			"Timegridio\\Concierge\\Alfred",
+			"Preference",
+			"Domain",
+			"Appointment",
+			"Vacancy",
+			"ServiceType",
+			"Contact",
+			"Category",
+			"Business",
+			"Service",
+			"Contact",
+			"Service",
+			"Timegridio\\Concierge\\Models\\Service",
+			"Timegridio\\Concierge\\Models\\Preference",
+			"Timegridio\\Concierge\\Models\\Vacancy",
+			"Timegridio\\Concierge\\Models\\Domain",
+			"Timegridio\\Concierge\\Models\\Category",
+			"Timegridio\\Concierge\\Models\\ServiceType",
+			"Timegridio\\Concierge\\Models\\Service",
+			"Timegridio\\Concierge\\Models\\Contact",
+			"Timegridio\\Concierge\\Models\\Appointment",
+			"Timegridio\\Concierge\\Models\\Business",
+			"Timegridio\\Concierge\\Models\\Vacancy",
+			"Timegridio\\Concierge\\Models\\ServiceType",
+			"Timegridio\\Concierge\\Models\\Service",
+			"Timegridio\\Concierge\\Models\\Preference",
+			"Timegridio\\Concierge\\Models\\Domain",
+			"Timegridio\\Concierge\\Models\\Appointment",
+			"Timegridio\\Concierge\\Models\\Category",
+			"Timegridio\\Concierge\\Models\\Business",
+			"Timegridio\\Concierge\\Models\\Contact",
+			"Timegridio\\Concierge\\Models\\Appointment",
+			"Timegridio\\Concierge\\Models\\Service",
+			"Timegridio\\Concierge\\Models\\Business",
+			"Timegridio\\Concierge\\Models\\Contact",
+			"namespace Timegridio\\Concierge",
+			"namespace Timegridio\\Concierge;",
+			"Concierge\\VacancyManager",
+			"Concierge\\Concierge",
+			"'Concierge\\Business\\Models\\Business'",
+			"use Concierge\\Business\\Models\\Business;",
+			"Concierge\\Business\\Models\\Business::class",
+			"'Concierge\\Business\\Models\\Business'",
+			"Concierge\\Business\\Models\\Business",
+			"Concierge\\Booking\\Strategies\\BookingStrategy",
+			"@extends('layouts.app')",
+			"',\\n'",
+			"\\n#",
+			"'manager.addressbook.",
+			",",
+			"option>\\n<option",
+			"logger()->",
+			"flash()->",
+			"NewAppointmentWasBooked",
+			"NewUserWasRegistered",
+			"NewContactWasRegistered",
+			"route('manager.business.register'",
+			";\\n",
+			"<input type=\"hidden\" id=\"_token\" name=\"_token\" value=\"",
+			"las citas",
+			"tu cita",
+			"Citas ",
+			"Citas",
+			"de citas",
+			"las citas",
+			"de citas",
+			"una cita",
+			"la cita",
+			"una cita",
+			"la cita",
+			"las citas",
+			"]",
+			"[",
+			"]",
+			"[",
+			"]",
+			"[",
+			"]",
+			"[",
+			"]",
+			"[",
+			"]",
+			"[",
+			"]",
+			"[",
+			"]",
+			"[",
+			"]",
+			"[",
+			"$this->log->info(__METHOD__);",
+			"Manager\\BusinessController@edit:",
+			"\"",
+			"timegrid.io",
+			"",
+			"$this->log->",
+			" $this->log->",
+			" ",
+			"",
+			"=",
+			"",
+			"=",
+			"Session::get('selected.business')->id",
+			"<script src=\"{{ asset('js/jquery.min.js') }}\"></script>",
+			"<script src=\"{{ asset('js/bootstrap-select.min.js') }}\"></script>",
+			"<link rel=\"stylesheet\" href=\"{{ asset('css/bootstrap-select.min.css') }}\">"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/Http/Controllers/Auth/AuthController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1961,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								899,
+								899
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 897.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 400,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								224,
+								224
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "gulpfile.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 586,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								477,
+								477
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/CAP/Widgets/LinkWidget.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1886,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 1794.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "config/app.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11713,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11701,
+								11701
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 5704.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "routes/web.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1623,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								248,
+								248
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "panel.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 356,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								98,
+								98
+							]
+						],
+						"settings":
+						{
+							"auto_name": "{",
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "config/laravel-url-signer.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 463,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								415,
+								415
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "app/Http/Controllers/Auth/LoginController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 960,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								764,
+								764
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 276.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "app/Http/Controllers/Auth/RegisterController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1768,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								797,
+								797
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 552.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 293.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 79.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.markdown":
+	{
+		"height": 148.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 547.0
+	},
+	"pinned_build_system": "Packages/User/PSR2.sublime-build",
+	"project": "panel.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"routesweb",
+				"routes/web.php"
+			],
+			[
+				"configurlsign",
+				"config/laravel-url-signer.php"
+			],
+			[
+				"configapp",
+				"config/app.php"
+			],
+			[
+				"gulpf",
+				"gulpfile.js"
+			],
+			[
+				"packages",
+				"package.json"
+			],
+			[
+				"dashboardbla",
+				"resources/views/frontoffice/dashboard/show.blade.php"
+			],
+			[
+				"dashboardcon",
+				"app/Http/Controllers/Frontoffice/DashboardController.php"
+			],
+			[
+				"breadc",
+				"routes/breadcrumbs.php"
+			],
+			[
+				"configgrav",
+				"config/gravatar.php"
+			],
+			[
+				"gulp",
+				"gulpfile.js"
+			],
+			[
+				"packa",
+				"package.json"
+			],
+			[
+				".env",
+				".env"
+			],
+			[
+				"routeweb",
+				"routes/web.php"
+			],
+			[
+				"composer",
+				"composer.json"
+			],
+			[
+				"sidebar",
+				"resources/views/layouts/partials/sidebar.blade.php"
+			],
+			[
+				"configtrello",
+				"config/trello.php"
+			],
+			[
+				"configapp.",
+				"config/app.php"
+			],
+			[
+				"trello",
+				"config/trello.php"
+			],
+			[
+				"nav.",
+				"resources/lang/es/nav.php"
+			],
+			[
+				"termsand",
+				"app/Http/Controllers/Frontoffice/TermsAndConditionsController.php"
+			],
+			[
+				"termsad",
+				"app/Http/Controllers/Frontoffice/TermsAndConditionsController.php"
+			],
+			[
+				"layoutapp",
+				"resources/views/layouts/app.blade.php"
+			],
+			[
+				"rolem",
+				"app/Http/Middleware/RoleMiddleware.php"
+			],
+			[
+				"routweb",
+				"routes/web.php"
+			],
+			[
+				"user.",
+				"app/User.php"
+			],
+			[
+				".e",
+				".env.example"
+			],
+			[
+				"board",
+				"app/Board.php"
+			],
+			[
+				"checke",
+				"app/CONDOR/Checker.php"
+			],
+			[
+				"account",
+				"app/Account.php"
+			],
+			[
+				"snaps",
+				"app/Snapshot.php"
+			],
+			[
+				"snap",
+				"app/Snapshot.php"
+			],
+			[
+				"user",
+				"app/User.php"
+			],
+			[
+				"snapshot",
+				"app/Snapshot.php"
+			],
+			[
+				"upchecker",
+				"app/CONDOR/Aspects/Uptime/UptimeChecker.php"
+			],
+			[
+				"readm",
+				"readme.md"
+			],
+			[
+				"businessshowblade",
+				"resources/views/manager/businesses/show.blade.php"
+			],
+			[
+				"managerbusinessage",
+				"app/Http/Controllers/Manager/BusinessAgendaController.php"
+			],
+			[
+				"langmanager",
+				"resources/lang/en_US/manager.php"
+			],
+			[
+				"business",
+				"app/Http/Controllers/Manager/BusinessController.php"
+			],
+			[
+				"dashboad.p",
+				"resources/views/user/dashboard.blade.php"
+			],
+			[
+				"eventserviceprovider",
+				"app/Providers/EventServiceProvider.php"
+			],
+			[
+				"managefeedcontroller",
+				"app/Http/Controllers/Manage/FeedController.php"
+			],
+			[
+				"feedcontroller",
+				"tests/integration/Http/Controllers/Manage/ManageFeedControllerTest.php"
+			],
+			[
+				"index367e",
+				"index367e.html"
+			],
+			[
+				"index3e45",
+				"index3e45.html"
+			],
+			[
+				"index9d1f",
+				"index9d1f.html"
+			],
+			[
+				"ed91",
+				"indexed91.html"
+			],
+			[
+				"8ea6",
+				"index8ea6.html"
+			],
+			[
+				"6751",
+				"index6751.html"
+			],
+			[
+				"6f3e",
+				"index6f3e.html"
+			],
+			[
+				"6fda",
+				"index6fda.html"
+			],
+			[
+				"2028",
+				"index2028.html"
+			],
+			[
+				"1b61",
+				"index1b61.html"
+			],
+			[
+				"0a16",
+				"index0a16.html"
+			],
+			[
+				"2f76",
+				"index2f76.html"
+			],
+			[
+				"f1bf",
+				"indexf1bf.html"
+			],
+			[
+				"index3270",
+				"index3270.html"
+			],
+			[
+				"8ea",
+				"index8ea6.html"
+			],
+			[
+				"phpun",
+				"phpunit.xml"
+			],
+			[
+				"configcook",
+				"config/laravel-cookie-consent.php"
+			],
+			[
+				".env.ex",
+				".env.example"
+			],
+			[
+				"laravelcookie",
+				"vendor/spatie/laravel-cookie-consent/config/laravel-cookie-consent.php"
+			],
+			[
+				"gitign",
+				".gitignore"
+			],
+			[
+				"userrepostest",
+				"tests/unit/Repositories/UserRepositoryTest.php"
+			],
+			[
+				"createcategoriestable",
+				"database/migrations/2015_02_06_000000_create_categories_table.php"
+			],
+			[
+				"2016_07_09_000001_add_humanresource_calendar_link",
+				"vendor/timegridio/concierge/migrations/2016_07_09_000001_add_humanresource_calendar_link.php"
+			],
+			[
+				"conciergecomposer.",
+				"vendor/timegridio/concierge/composer.json"
+			],
+			[
+				"compser.loc",
+				"composer.lock"
+			],
+			[
+				"compsoer",
+				"composer.json"
+			],
+			[
+				"maailth",
+				"vendor/tightenco/mailthief/src/MailThief.php"
+			],
+			[
+				"businesscon",
+				"app/Http/Controllers/Manager/BusinessController.php"
+			],
+			[
+				"businesscontro",
+				"app/Http/Controllers/Guest/BusinessController.php"
+			],
+			[
+				"welcomecontr",
+				"app/Http/Controllers/WelcomeController.php"
+			],
+			[
+				"businesscontroller",
+				"app/Http/Controllers/Guest/BusinessController.php"
+			],
+			[
+				"welcomeco",
+				"app/Http/Controllers/WelcomeController.php"
+			],
+			[
+				"composerpro",
+				"app/Providers/ComposerServiceProvider.php"
+			],
+			[
+				"routeser",
+				"app/Providers/RouteServiceProvider.php"
+			],
+			[
+				"route",
+				"app/Providers/RouteServiceProvider.php"
+			],
+			[
+				"ical",
+				"app/Http/Controllers/User/ICalController.php"
+			],
+			[
+				"kernel",
+				"app/Http/Kernel.php"
+			],
+			[
+				"manageraddres",
+				"app/Http/Controllers/Manager/AddressbookController.php"
+			],
+			[
+				"conciergemodelbusiness",
+				"vendor/timegridio/concierge/src/Models/Business.php"
+			],
+			[
+				"manageraddress",
+				"app/Http/Controllers/Manager/AddressbookController.php"
+			],
+			[
+				"registercontrol",
+				"app/Http/Controllers/Auth/RegisterController.php"
+			],
+			[
+				"routeservice",
+				"app/Providers/RouteServiceProvider.php"
+			],
+			[
+				"routeapi",
+				"routes/api.php"
+			],
+			[
+				"routesap",
+				"routes/api.php"
+			],
+			[
+				"beaut",
+				"vendor/snowfire/beautymail/src/Snowfire/Beautymail/Beautymail.php"
+			],
+			[
+				"routes",
+				"app/Http/routes.php"
+			],
+			[
+				"authcontro",
+				"app/Http/Controllers/Auth/AuthController.php"
+			],
+			[
+				"routeserv",
+				"app/Providers/RouteServiceProvider.php"
+			],
+			[
+				"resetpasswordcon",
+				"app/Http/Controllers/Auth/ResetPasswordController.php"
+			],
+			[
+				"exceptionshandler",
+				"app/Exceptions/Handler.php"
+			],
+			[
+				"web.php",
+				"routes/web.php"
+			],
+			[
+				"configapp.php",
+				"config/app.php"
+			],
+			[
+				"composer.",
+				"composer.json"
+			],
+			[
+				"registercontr",
+				"app/Http/Controllers/Auth/RegisterController.php"
+			],
+			[
+				"authcontr",
+				"app/Http/Controllers/Auth/AuthController.php"
+			],
+			[
+				"eventserv",
+				"app/Providers/EventServiceProvider.php"
+			],
+			[
+				"appblade",
+				"resources/views/layouts/app.blade.php"
+			],
+			[
+				"public",
+				"resources/views/layouts/public.blade.php"
+			],
+			[
+				"userblade",
+				"resources/views/layouts/user.blade.php"
+			],
+			[
+				"viewcomposer",
+				"app/Http/ViewComposers/NavComposer.php"
+			],
+			[
+				"_notifica",
+				"resources/views/user/_notifications-menu.blade.php"
+			],
+			[
+				"_notifi",
+				"resources/views/user/_notifications-menu.blade.php"
+			],
+			[
+				"_user",
+				"resources/views/_user-account-menu.blade.php"
+			],
+			[
+				"_na",
+				"resources/views/_navi18n.blade.php"
+			],
+			[
+				"_navme",
+				"resources/views/manager/_navmenu.blade.php"
+			],
+			[
+				"user.blade",
+				"resources/views/layouts/user.blade.php"
+			],
+			[
+				"login",
+				"resources/views/auth/login.blade.php"
+			],
+			[
+				"publicblade",
+				"resources/views/layouts/public.blade.php"
+			],
+			[
+				"transma",
+				"app/TransMail.php"
+			],
+			[
+				"configlang",
+				"config/languages.php"
+			],
+			[
+				"languagetest",
+				"tests/integration/controllers/LanguageControllerTest.php"
+			],
+			[
+				"conciergereadme.md",
+				"vendor/timegridio/concierge/README.md"
+			],
+			[
+				"readme",
+				"readme.md"
+			],
+			[
+				"conciergebusinesspre",
+				"vendor/timegridio/concierge/src/Presenters/BusinessPresenter.php"
+			],
+			[
+				"factories",
+				"database/factories/ModelFactory.php"
+			],
+			[
+				"layout",
+				"resources/views/layouts/app.blade.php"
+			],
+			[
+				"rootcon",
+				"app/Http/Controllers/Root/RootController.php"
+			],
+			[
+				"hasrole",
+				"app/Traits/HasRoles.php"
+			],
+			[
+				"role",
+				"app/Role.php"
+			],
+			[
+				"rootc",
+				"app/Http/Controllers/Root/RootController.php"
+			],
+			[
+				"configqueue",
+				"config/queue.php"
+			],
+			[
+				"reset",
+				"resources/views/auth/passwords/reset.blade.php"
+			],
+			[
+				"registerblade",
+				"resources/views/auth/register.blade.php"
+			],
+			[
+				"loginblade",
+				"resources/views/auth/login.blade.php"
+			],
+			[
+				"feed",
+				"app/Feed.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"/var/www/shop/shop.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 354.0,
+		"last_filter": "client",
+		"selected_items":
+		[
+			[
+				"client",
+				"Client"
+			],
+			[
+				"manager",
+				"Manager"
+			],
+			[
+				"board",
+				"Board"
+			],
+			[
+				"member",
+				"Member"
+			],
+			[
+				"organ",
+				"Organization"
+			],
+			[
+				"lookfor",
+				"lookForIssues"
+			],
+			[
+				"lookforis",
+				"lookForIssues"
+			],
+			[
+				"gethome",
+				"getHome"
+			],
+			[
+				"getwiz",
+				"getWizard"
+			],
+			[
+				"send",
+				"send"
+			],
+			[
+				"it_syncs_ical_for_all_businesses",
+				"it_syncs_ical_for_all_businesses"
+			],
+			[
+				"it_refreshes_rollbacks_and_seeds_the_database",
+				"it_refreshes_rollbacks_and_seeds_the_database"
+			],
+			[
+				"it_sends_a_welcome_email_to_new_registered_user",
+				"it_sends_a_welcome_email_to_new_registered_user"
+			],
+			[
+				"it_fits_for_hairdresser_scenario",
+				"it_fits_for_hairdresser_scenario"
+			],
+			[
+				"it_lists_businesses_subscriptions",
+				"it_lists_businesses_subscriptions"
+			],
+			[
+				"it_presents_the_businesses_listing",
+				"it_presents_the_businesses_listing"
+			],
+			[
+				"it_shows_reservations_list_with_a_reserved_appointment",
+				"it_shows_reservations_list_with_a_reserved_appointment"
+			],
+			[
+				"it_shows_empty_reservations_list",
+				"it_shows_empty_reservations_list"
+			],
+			[
+				"it_rejects_root_dashboard_to_unauthorized",
+				"it_rejects_root_dashboard_to_unauthorized"
+			],
+			[
+				"it_fits_for_consulting_scenario",
+				"it_fits_for_consulting_scenario"
+			],
+			[
+				"it_presents_the_register_page_through_login",
+				"it_presents_the_register_page_through_login"
+			],
+			[
+				"it_presents_the_login_page",
+				"it_presents_the_login_page"
+			],
+			[
+				"it_denies_no_password_registration",
+				"it_denies_no_password_registration"
+			],
+			[
+				"it_provides_successful_registration",
+				"it_provides_successful_registration"
+			],
+			[
+				"it_provides_logout",
+				"it_provides_logout"
+			],
+			[
+				"it_detaches_a_contact_from_business",
+				"it_detaches_a_contact_from_business"
+			],
+			[
+				"it_resets_the_password",
+				"it_resets_the_password"
+			],
+			[
+				"it_provides_a_downloadable_ical_access",
+				"it_provides_a_downloadable_ical_access"
+			],
+			[
+				"detac",
+				"detach"
+			],
+			[
+				"it_resumes_the_last_visited_business_as_guest_after_registration",
+				"it_resumes_the_last_visited_business_as_guest_after_registration"
+			],
+			[
+				"it_provides_available_dates_for_requested_service",
+				"it_provides_available_dates_for_requested_service"
+			],
+			[
+				"it_composes_the_view_for_guest_user",
+				"it_composes_the_view_for_guest_user"
+			],
+			[
+				"it_has_a_facebook_image_with_profile_alias",
+				"it_has_a_facebook_image_with_profile_alias"
+			],
+			[
+				"it_has_a_facebook_image_with_profile_id",
+				"it_has_a_facebook_image_with_profile_id"
+			],
+			[
+				"UserPreferencesControllerTest",
+				"UserPreferencesControllerTest"
+			],
+			[
+				"ManagerBusinessServiceControllerTest",
+				"ManagerBusinessServiceControllerTest"
+			],
+			[
+				"ManagerBusinessPreferencesControllerTest",
+				"ManagerBusinessPreferencesControllerTest"
+			],
+			[
+				"ManagerBusinessNotificationsControllerTest",
+				"ManagerBusinessNotificationsControllerTest"
+			],
+			[
+				"ManagerBusinessControllerTest",
+				"ManagerBusinessControllerTest"
+			],
+			[
+				"ManagerBusinessAgendaControllerTest",
+				"ManagerBusinessAgendaControllerTest"
+			],
+			[
+				"it_resets",
+				"it_resets_the_password"
+			],
+			[
+				"it_purges",
+				"it_purges_snapshots_from_board"
+			],
+			[
+				"it_sync",
+				"it_syncs_ical_for_all_businesses"
+			],
+			[
+				"it_checks_for_bookable_slots_when_unavailable",
+				"it_checks_for_bookable_slots_when_unavailable"
+			],
+			[
+				"it_checks_for_bookable_slots_when_available",
+				"it_checks_for_bookable_slots_when_available"
+			],
+			[
+				"it_generates_availability_array",
+				"it_generates_availability_array"
+			],
+			[
+				"it_displays_the_va",
+				"it_displays_the_vacancy_management_simple_form"
+			],
+			[
+				"it_provides ical",
+				"it_provides_a_downloadable_ical_access"
+			],
+			[
+				"it_provides dates",
+				"it_provides_available_dates_for_requested_service"
+			],
+			[
+				"it_tries_invalid_action_on_an_existing_appointment",
+				"it_tries_invalid_action_on_an_existing_appointment"
+			],
+			[
+				"attach",
+				"attach"
+			],
+			[
+				"it_shows_reservations_list_omitting_archived_appointments",
+				"it_shows_reservations_list_omitting_archived_appointments"
+			],
+			[
+				"authoriz",
+				"authorize"
+			],
+			[
+				"authorize",
+				"authorize"
+			],
+			[
+				"getvalidate",
+				"getValidate"
+			],
+			[
+				"NewRegisteredUse",
+				"NewUserWasRegisteredUnitTest"
+			],
+			[
+				"gettimes",
+				"getTimes"
+			],
+			[
+				"it_creates_a_contact_subscription_copying_existing_contact",
+				"it_creates_a_contact_subscription_copying_existing_contact"
+			],
+			[
+				"it_edits",
+				"it_edits_a_contact_of_addressbook"
+			],
+			[
+				"a_listed_guest_user_may_make_a_soft_appointment",
+				"a_listed_guest_user_may_make_a_soft_appointment"
+			],
+			[
+				"it_adds_a_contact_to_addressbook_that_links_to_existing_user",
+				"it_adds_a_contact_to_addressbook_that_links_to_existing_user"
+			],
+			[
+				"it_creates_a_contact_subscription_reusing_existing_contact",
+				"it_creates_a_contact_subscription_reusing_existing_contact"
+			],
+			[
+				"it_creates_a_contact_",
+				"it_creates_a_contact_subscription_reusing_existing_contact"
+			],
+			[
+				"it_creates_a_contact_s",
+				"it_creates_a_contact_subscription"
+			],
+			[
+				"it_presents_the_s",
+				"it_presents_the_business_subscription_form"
+			],
+			[
+				"it_adds that",
+				"it_adds_a_contact_to_addressbook_that_matches_an_existing_contact"
+			],
+			[
+				"manager addre",
+				"ManagerAddressbookControllerTest"
+			],
+			[
+				"a_liste",
+				"a_listed_guest_user_may_make_a_soft_appointment"
+			],
+			[
+				"it_adds",
+				"it_adds_a_contact_to_addressbook"
+			],
+			[
+				"SendAppointmentCancellationNotificat",
+				"SendAppointmentCancellationNotification"
+			],
+			[
+				"mailer",
+				"Mailer"
+			],
+			[
+				"SendAppointmentCancellationNotification",
+				"SendAppointmentCancellationNotification"
+			],
+			[
+				"it_validates_a_soft_appotinment_through_a_mailed_link",
+				"it_validates_a_soft_appotinment_through_a_mailed_link"
+			],
+			[
+				"a_guest_user_may_make_a_reservation",
+				"a_guest_user_may_make_a_reservation"
+			],
+			[
+				"it_makes_a_reservation_with_dateslot",
+				"it_makes_a_reservation_with_dateslot"
+			],
+			[
+				"it_prevents_showing_vacancies_to_unsubcribed_users",
+				"it_prevents_showing_vacancies_to_unsubcribed_users"
+			],
+			[
+				"it_has_a_strict_arrival_time",
+				"it_has_a_strict_arrival_time"
+			],
+			[
+				"it_has_a_flexible_arrival_time",
+				"it_has_a_flexible_arrival_time"
+			],
+			[
+				"it_has_a_normal_date_for_any_other_date",
+				"it_has_a_normal_date_for_any_other_date"
+			],
+			[
+				"it_takes_a_reservation_with_timeslot_on_shifted_timezone",
+				"it_takes_a_reservation_with_timeslot_on_shifted_timezone"
+			],
+			[
+				"it_prevents_taking_a_reservation_over_capacity_with_timeslot",
+				"it_prevents_taking_a_reservation_over_capacity_with_timeslot"
+			],
+			[
+				"languages",
+				"languages"
+			],
+			[
+				"call",
+				"call"
+			],
+			[
+				"it_sudoes",
+				"it_sudoes_as_user"
+			],
+			[
+				"it_lists_some_businesses",
+				"it_lists_some_businesses"
+			],
+			[
+				"it_adds_a_contact_to_addressbook",
+				"it_adds_a_contact_to_addressbook"
+			],
+			[
+				"it_cancels_an_ex",
+				"it_cancels_an_existing_appointment"
+			],
+			[
+				"it_displays_the_vacancy_management_advanced_form",
+				"it_displays_the_vacancy_management_advanced_form"
+			],
+			[
+				"isown",
+				"isOwner"
+			],
+			[
+				"expectse",
+				"expectsEvents"
+			],
+			[
+				"it_has_a_human_friendly_date_for_tomorrow",
+				"it_has_a_human_friendly_date_for_tomorrow"
+			],
+			[
+				"it_publishes_a_batch_vacancy_statement",
+				"it_publishes_a_batch_vacancy_statement"
+			],
+			[
+				"bookingcon",
+				"BookingControllerTest"
+			],
+			[
+				"trans_choice",
+				"trans_choice"
+			],
+			[
+				"plural",
+				"plural"
+			],
+			[
+				"updatebat",
+				"updateBatch"
+			],
+			[
+				"it_ret",
+				"it_returns_vacancies"
+			],
+			[
+				"it_prevents_taking_a_reservation_over_capacity",
+				"it_prevents_taking_a_reservation_over_capacity"
+			],
+			[
+				"businesscon",
+				"BusinessController"
+			],
+			[
+				"it_detaches_a_contact_from_busines",
+				"it_detaches_a_contact_from_business"
+			],
+			[
+				"UserContactControllerTest",
+				"UserContactControllerTest"
+			],
+			[
+				"ContactController",
+				"ContactController"
+			],
+			[
+				"it_denies_detaching_a_contact_from_business_to_unauthorized_user",
+				"it_denies_detaching_a_contact_from_business_to_unauthorized_user"
+			],
+			[
+				"ManagerAddressbookControllerTest",
+				"ManagerAddressbookControllerTest"
+			],
+			[
+				"BusinessAgendaController",
+				"BusinessAgendaController"
+			],
+			[
+				"it_finds_an_appointment_by_code",
+				"it_finds_an_appointment_by_code"
+			],
+			[
+				"it_verifies_no_appointments_in_business_agenda",
+				"it_verifies_no_appointments_in_business_agenda"
+			],
+			[
+				"it_edits_a_contact_of_addressbook",
+				"it_edits_a_contact_of_addressbook"
+			],
+			[
+				"it_prevents_to_serve_an_existing_future_appointment",
+				"it_prevents_to_serve_an_existing_future_appointment"
+			],
+			[
+				"postAction",
+				"postAction"
+			],
+			[
+				"it_annulates_an_existing_appointment",
+				"it_annulates_an_existing_appointment"
+			],
+			[
+				"it_has_a_valid_birthdate",
+				"it_has_a_valid_birthdate"
+			],
+			[
+				"it_uses_presenter",
+				"it_uses_presenter"
+			],
+			[
+				"it_fires_event_and_links_user",
+				"it_fires_event_and_links_user"
+			],
+			[
+				"it_generates_a_dateslot_appointment",
+				"it_generates_a_dateslot_appointment"
+			],
+			[
+				"it_gets_business_presenter",
+				"it_gets_business_presenter"
+			],
+			[
+				"it_updates_the_vacancy_in_simple_mode",
+				"it_updates_the_vacancy_in_simple_mode"
+			],
+			[
+				"it_verifies_a_vacancy_holds_appointment_for_a_user",
+				"it_verifies_a_vacancy_holds_appointment_for_a_user"
+			],
+			[
+				"NewContactWasRegistered",
+				"NewContactWasRegistered"
+			],
+			[
+				"it_gets_the_associated_vacancy",
+				"it_gets_the_associated_vacancy"
+			],
+			[
+				"it_verifies_appointments_in_business_agenda",
+				"it_verifies_appointments_in_business_agenda"
+			],
+			[
+				"getSlot",
+				"getSlotFor"
+			],
+			[
+				"it_finds_a_va",
+				"it_finds_a_vacancy_slot_for_a_date_and_time_when_available"
+			],
+			[
+				"it_doesnt_find_a_vacancy_slot_for_a_date_and_time_when_not_available",
+				"it_doesnt_find_a_vacancy_slot_for_a_date_and_time_when_not_available"
+			],
+			[
+				"it_sets_a_s",
+				"it_sets_a_slot_value"
+			],
+			[
+				"conciergetes",
+				"ConciergeTest"
+			],
+			[
+				"BusinessController",
+				"BusinessController"
+			],
+			[
+				"BookingStrategyUnitTest",
+				"BookingStrategyUnitTest"
+			]
+		],
+		"width": 780.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": false,
+	"side_bar_visible": true,
+	"side_bar_width": 358.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 3
+	}
+}
