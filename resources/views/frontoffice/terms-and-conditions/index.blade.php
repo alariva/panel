@@ -15,6 +15,10 @@
 
                 <div class="panel-footer">{{ $updated }}</div>
             </div>
+
+            @can('edit terms-and-conditions')
+                {{-- // edit button --}}
+            @endcan
         </div>
     </div>
 </div>
