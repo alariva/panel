@@ -18,9 +18,29 @@ Route::get('/', [
 
 Route::get('/tos', [
     'middleware' => ['can:read terms-and-conditions'],
-    'as'   => 'terms-and-conditions',
-    'uses' => 'Frontoffice\TermsAndConditionsController@index',
+    'as'         => 'frontoffice.terms-and-conditions.show',
+    'uses'       => 'Frontoffice\TermsAndConditionsController@show',
 ]);
+
+Route::group(['prefix' => 'backoffice', 'namespace' => 'Backoffice', 'middleware' => ['can:edit terms-and-conditions']], function () {
+
+    Route::get('/tos', [
+        'middleware' => ['can:read terms-and-conditions'],
+        'as'         => 'backoffice.terms-and-conditions.show',
+        'uses'       => 'TermsAndConditionsController@show',
+    ]);
+
+    Route::get('/tos/edit', [
+        'as'   => 'backoffice.terms-and-conditions.edit',
+        'uses' => 'TermsAndConditionsController@edit',
+    ]);
+
+    Route::put('/tos/update', [
+        'as'   => 'backoffice.terms-and-conditions.update',
+        'uses' => 'TermsAndConditionsController@update',
+    ]);
+
+});
 
 Auth::routes();
 

@@ -8,5 +8,5 @@ Breadcrumbs::register('home', function ($breadcrumbs) {
 // Terms and Conditions
 Breadcrumbs::register('terms-and-conditions', function ($breadcrumbs) {
     $breadcrumbs->parent('home');
-    $breadcrumbs->push(trans('nav.terms-and-conditions'), route('terms-and-conditions'));
+    $breadcrumbs->push(trans('nav.terms-and-conditions'), route('frontoffice.terms-and-conditions.show'));
 });

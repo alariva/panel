@@ -17,7 +17,10 @@
             </div>
 
             @can('edit terms-and-conditions')
-                {{-- // edit button --}}
+                {!! Button::primary(trans('btn.edit'))
+                            ->asLinkTo(route('backoffice.terms-and-conditions.edit'))
+                            ->large()
+                            ->block() !!}
             @endcan
         </div>
     </div>
