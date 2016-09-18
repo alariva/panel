@@ -15,6 +15,12 @@ Route::get('/', function () {
     return view('welcome');
 });
 
+Route::get('/tos', [
+    'middleware' => ['can:read terms-and-conditions'],
+    'as'   => 'terms-and-conditions',
+    'uses' => 'Frontoffice\TermsAndConditionsController@index',
+]);
+
 Auth::routes();
 
 Route::get('/home', 'HomeController@index');
