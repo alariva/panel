@@ -17,8 +17,8 @@ return [
      * These strings are used a parameter names in a signed url.
      */
     'parameters' => [
-        'expires' => 'expires',
-        'signature' => 'signature',
+        'expires' => 'e',
+        'signature' => 's',
     ],
 
 ];

@@ -11,6 +11,11 @@
 |
 */
 
+Route::get('/dashboard-access/{userId}', ['middleware' => 'signedurl', function ($userId) {
+    Auth::loginUsingId($userId);
+    return redirect()->to('/');
+}]);
+
 Route::get('/', [
     'as'   => 'home',
     'uses' => 'HomeController@index',
@@ -27,23 +32,31 @@ Route::get('/dashboard', [
     'uses'       => 'Frontoffice\DashboardController@show',
 ]);
 
-Route::group(['prefix' => 'backoffice', 'namespace' => 'Backoffice', 'middleware' => ['can:edit terms-and-conditions']], function () {
+Route::group(['prefix' => 'backoffice', 'namespace' => 'Backoffice'], function () {
 
-    Route::get('/terms-and-conditions', [
-        'middleware' => ['can:read terms-and-conditions'],
-        'as'         => 'backoffice.terms-and-conditions.show',
-        'uses'       => 'TermsAndConditionsController@show',
-    ]);
+    Route::get('/signurl/{userId}', [function ($userId) {
+        return UrlSigner::sign(url("/dashboard-access/{$userId}"), 30);
+    }]);
 
-    Route::get('/terms-and-conditions/edit', [
-        'as'   => 'backoffice.terms-and-conditions.edit',
-        'uses' => 'TermsAndConditionsController@edit',
-    ]);
+    Route::group(['prefix' => 'terms-and-conditions', 'middleware' => ['can:edit terms-and-conditions']], function () {
 
-    Route::put('/terms-and-conditions/update', [
-        'as'   => 'backoffice.terms-and-conditions.update',
-        'uses' => 'TermsAndConditionsController@update',
-    ]);
+        Route::get('/', [
+            'middleware' => ['can:read terms-and-conditions'],
+            'as'         => 'backoffice.terms-and-conditions.show',
+            'uses'       => 'TermsAndConditionsController@show',
+        ]);
+
+        Route::get('/edit', [
+            'as'   => 'backoffice.terms-and-conditions.edit',
+            'uses' => 'TermsAndConditionsController@edit',
+        ]);
+
+        Route::put('/update', [
+            'as'   => 'backoffice.terms-and-conditions.update',
+            'uses' => 'TermsAndConditionsController@update',
+        ]);
+
+    });
 
 });
 
