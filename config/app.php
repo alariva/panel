@@ -185,6 +185,7 @@ return [
         Bootstrapper\BootstrapperL5ServiceProvider::class,
 
         Alariva\Adminlter\AdminlterServiceProvider::class,
+        Thomaswelton\LaravelGravatar\LaravelGravatarServiceProvider::class,
 
     ],
 
@@ -267,6 +268,7 @@ return [
         'Thumbnail' => Bootstrapper\Facades\Thumbnail::class,
 
         'Smallbox' => Alariva\Adminlter\Facades\Smallbox::class,
+        'Gravatar' => Thomaswelton\LaravelGravatar\Facades\Gravatar::class,
 
     ],
 

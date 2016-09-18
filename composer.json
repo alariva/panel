@@ -11,7 +11,8 @@
         "acacha/admin-lte-template-laravel": "2.*",
         "graham-campbell/markdown": "^6.1",
         "davejamesmiller/laravel-breadcrumbs": "^3.0",
-        "patricktalmadge/bootstrapper": "^5.9"
+        "patricktalmadge/bootstrapper": "^5.9",
+        "thomaswelton/laravel-gravatar": "^1.1"
     },
     "require-dev": {
         "fzaninotto/faker": "~1.4",
