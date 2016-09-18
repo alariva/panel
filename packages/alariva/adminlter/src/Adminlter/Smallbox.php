@@ -49,11 +49,6 @@ class Smallbox extends RenderedObject
     protected $name;
 
     /**
-     * @var String value of the object (used when creating the links)
-     */
-    protected $value;
-
-    /**
      * @var String icon of the object (used when creating the links)
      */
     protected $icon;
@@ -178,7 +173,7 @@ class Smallbox extends RenderedObject
     public function primary($contents = '')
     {
         return $this->setType(self::PRIMARY)
-            ->withValue($contents);
+            ->body($contents);
     }
 
     /**
@@ -191,7 +186,7 @@ class Smallbox extends RenderedObject
     public function success($contents = '')
     {
         return $this->setType(self::SUCCESS)
-            ->withValue($contents);
+            ->body($contents);
     }
 
     /**
@@ -203,7 +198,7 @@ class Smallbox extends RenderedObject
     public function info($contents = '')
     {
         return $this->setType(self::INFO)
-            ->withValue($contents);
+            ->body($contents);
     }
 
     /**
@@ -215,7 +210,7 @@ class Smallbox extends RenderedObject
     public function warning($contents = '')
     {
         return $this->setType(self::WARNING)
-            ->withValue($contents);
+            ->body($contents);
     }
 
     /**
@@ -227,20 +222,7 @@ class Smallbox extends RenderedObject
     public function danger($contents = '')
     {
         return $this->setType(self::DANGER)
-            ->withValue($contents);
-    }
-
-    /**
-     * Sets the value of the button
-     *
-     * @param $value string The new value of the button
-     * @return $this
-     */
-    public function withValue($value = '')
-    {
-        $this->value = $value;
-
-        return $this;
+            ->body($contents);
     }
 
     /**
