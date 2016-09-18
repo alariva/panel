@@ -1,5 +1,8 @@
 @extends('layouts.app')
 
+@section('contentheader_title', trans('terms-and-conditions.section.title'))
+@section('contentheader_description', trans('terms-and-conditions.section.description', compact('updated')))
+
 @section('main-content')
 <div class="container">
     <div class="row">
