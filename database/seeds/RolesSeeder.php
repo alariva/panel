@@ -16,23 +16,50 @@ class RolesSeeder extends Seeder
         $this->seedAdminRole();
 
         $this->seedClientRole();
+
+        $this->seedPermissions();
+
+        $this->seedAdminRolesPermissions();
+
+        $this->seedClientRolesPermissions();
     }
 
     protected function seedAdminRole()
     {
-        $adminRole = Role::updateOrCreate(['name' => 'admin']);
-
-        $editTermsAndConditions = Permission::updateOrCreate(['name' => 'edit terms-and-conditions']);
-
-        $adminRole->givePermissionTo($editTermsAndConditions->name);
+        Role::updateOrCreate(['name' => 'admin']);
     }
 
     protected function seedClientRole()
     {
-        $clientRole = Role::updateOrCreate(['name' => 'client']);
+        Role::updateOrCreate(['name' => 'client']);
+    }
 
-        $readTermsAndConditions = Permission::updateOrCreate(['name' => 'read terms-and-conditions']);
+    protected function seedPermissions()
+    {
+        Permission::updateOrCreate(['name' => 'edit terms-and-conditions']);
+        Permission::updateOrCreate(['name' => 'read terms-and-conditions']);
+    }
 
-        $clientRole->givePermissionTo($readTermsAndConditions);
+    protected function seedAdminRolesPermissions()
+    {
+        $admin = Role::findByName('admin');
+
+        $permissions = [
+            'read terms-and-conditions',
+            'edit terms-and-conditions',
+            ];
+
+        $admin->syncPermissions($permissions);
+    }
+
+    protected function seedClientRolesPermissions()
+    {
+        $client = Role::findByName('client');
+
+        $permissions = [
+            'read terms-and-conditions',
+            ];
+
+        $client->syncPermissions($permissions);
     }
 }
