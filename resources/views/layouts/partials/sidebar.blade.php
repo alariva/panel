@@ -18,16 +18,7 @@
             </div>
         @endif
 
-        <!-- search form (Optional) -->
-        <form action="#" method="get" class="sidebar-form">
-            <div class="input-group">
-                <input type="text" name="q" class="form-control" placeholder="{{ trans('adminlte_lang::message.search') }}..."/>
-              <span class="input-group-btn">
-                <button type='submit' name='search' id='search-btn' class="btn btn-flat"><i class="fa fa-search"></i></button>
-              </span>
-            </div>
-        </form>
-        <!-- /.search form -->
+        {{-- @include('layouts.partials.search') --}}
 
         <!-- Sidebar Menu -->
         <ul class="sidebar-menu">
@@ -35,6 +26,7 @@
             <!-- Optionally, you can add icons to the links -->
             <li><a href="{{ route('frontoffice.dashboard.show') }}"><i class='fa fa-tachometer'></i> <span>{{ trans('nav.dashboard') }}</span></a></li>
             <li><a href="{{ route('frontoffice.terms-and-conditions.show') }}"><i class='fa fa-file-text-o'></i> <span>{{ trans('nav.terms-and-conditions') }}</span></a></li>
+{{--
             <li><a href="{{ url('home') }}"><i class='fa fa-link'></i> <span>{{ trans('adminlte_lang::message.home') }}</span></a></li>
             <li><a href="#"><i class='fa fa-link'></i> <span>{{ trans('adminlte_lang::message.anotherlink') }}</span></a></li>
             <li class="treeview">
@@ -44,6 +36,7 @@
                     <li><a href="#">{{ trans('adminlte_lang::message.linklevel2') }}</a></li>
                 </ul>
             </li>
+--}}
         </ul><!-- /.sidebar-menu -->
     </section>
     <!-- /.sidebar -->
