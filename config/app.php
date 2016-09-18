@@ -184,6 +184,8 @@ return [
         DaveJamesMiller\Breadcrumbs\ServiceProvider::class,
         Bootstrapper\BootstrapperL5ServiceProvider::class,
 
+        Alariva\Adminlter\AdminlterServiceProvider::class,
+
     ],
 
     /*
@@ -263,6 +265,8 @@ return [
         'Tabbable' => Bootstrapper\Facades\Tabbable::class,
         'Table' => Bootstrapper\Facades\Table::class,
         'Thumbnail' => Bootstrapper\Facades\Thumbnail::class,
+
+        'Smallbox' => Alariva\Adminlter\Facades\Smallbox::class,
 
     ],
 
