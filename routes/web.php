@@ -11,9 +11,10 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+Route::get('/', [
+    'as'   => 'home',
+    'uses' => 'HomeController@index',
+]);
 
 Route::get('/tos', [
     'middleware' => ['can:read terms-and-conditions'],

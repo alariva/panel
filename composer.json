@@ -9,7 +9,8 @@
         "laravel/framework": "5.3.*",
         "spatie/laravel-permission": "^1.5",
         "acacha/admin-lte-template-laravel": "2.*",
-        "graham-campbell/markdown": "^6.1"
+        "graham-campbell/markdown": "^6.1",
+        "davejamesmiller/laravel-breadcrumbs": "^3.0"
     },
     "require-dev": {
         "fzaninotto/faker": "~1.4",

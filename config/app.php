@@ -181,6 +181,7 @@ return [
         Spatie\Permission\PermissionServiceProvider::class,
         Acacha\AdminLTETemplateLaravel\Providers\AdminLTETemplateServiceProvider::class,
         GrahamCampbell\Markdown\MarkdownServiceProvider::class,
+        DaveJamesMiller\Breadcrumbs\ServiceProvider::class,
 
     ],
 
@@ -229,8 +230,9 @@ return [
         'Validator'    => Illuminate\Support\Facades\Validator::class,
         'View'         => Illuminate\Support\Facades\View::class,
 
-        'AdminLTE' => Acacha\AdminLTETemplateLaravel\Facades\AdminLTE::class,
-        'Markdown' => GrahamCampbell\Markdown\Facades\Markdown::class,
+        'AdminLTE'    => Acacha\AdminLTETemplateLaravel\Facades\AdminLTE::class,
+        'Markdown'    => GrahamCampbell\Markdown\Facades\Markdown::class,
+        'Breadcrumbs' => DaveJamesMiller\Breadcrumbs\Facade::class,
 
     ],
 
