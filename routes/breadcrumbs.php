@@ -5,6 +5,11 @@ Breadcrumbs::register('/', function ($breadcrumbs) {
     $breadcrumbs->push(trans('nav.home'), route('home'));
 });
 
+// Home
+Breadcrumbs::register('home', function ($breadcrumbs) {
+    $breadcrumbs->push(trans('nav.home'), route('home'));
+});
+
 // Dashboard
 Breadcrumbs::register('dashboard', function ($breadcrumbs) {
     $breadcrumbs->parent('/');
