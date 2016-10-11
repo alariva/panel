@@ -11,6 +11,12 @@ Breadcrumbs::register('dashboard', function ($breadcrumbs) {
     $breadcrumbs->push(trans('nav.dashboard'), route('frontoffice.dashboard.show'));
 });
 
+// Dashboard
+Breadcrumbs::register('quotecalculator', function ($breadcrumbs) {
+    $breadcrumbs->parent('/');
+    $breadcrumbs->push(trans('nav.quotecalculator'), route('frontoffice.quotecalculator.show'));
+});
+
 //////////////////////////
 // Terms and Conditions //
 //////////////////////////

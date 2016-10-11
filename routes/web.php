@@ -27,6 +27,16 @@ Route::get('/terms-and-conditions', [
     'uses'       => 'Frontoffice\TermsAndConditionsController@show',
 ]);
 
+Route::get('/quotecalculator', [
+    'as'         => 'frontoffice.quotecalculator.show',
+    'uses'       => 'Frontoffice\QuoteCalculatorController@show',
+]);
+
+Route::post('/quotecalculator', [
+    'as'         => 'frontoffice.quotecalculator.post',
+    'uses'       => 'Frontoffice\QuoteCalculatorController@post',
+]);
+
 Route::get('/dashboard', [
     'as'         => 'frontoffice.dashboard.show',
     'uses'       => 'Frontoffice\DashboardController@show',

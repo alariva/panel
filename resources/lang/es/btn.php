@@ -8,5 +8,6 @@ return [
     'edit'    => 'Editar',
     'update'  => 'Actualizar',
     'destroy' => 'Eliminar',
+    'submit'  => 'Aceptar',
 
 ];

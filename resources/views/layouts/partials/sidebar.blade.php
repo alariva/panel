@@ -26,6 +26,7 @@
             <!-- Optionally, you can add icons to the links -->
             <li><a href="{{ route('frontoffice.dashboard.show') }}"><i class='fa fa-tachometer'></i> <span>{{ trans('nav.dashboard') }}</span></a></li>
             <li><a href="{{ route('frontoffice.terms-and-conditions.show') }}"><i class='fa fa-file-text-o'></i> <span>{{ trans('nav.terms-and-conditions') }}</span></a></li>
+            <li><a href="{{ route('frontoffice.quotecalculator.show') }}"><i class='fa fa-calculator'></i> <span>{{ trans('nav.quotecalculator') }}</span></a></li>
 {{--
             <li><a href="{{ url('home') }}"><i class='fa fa-link'></i> <span>{{ trans('adminlte_lang::message.home') }}</span></a></li>
             <li><a href="#"><i class='fa fa-link'></i> <span>{{ trans('adminlte_lang::message.anotherlink') }}</span></a></li>
