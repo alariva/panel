@@ -35,9 +35,6 @@
                         <h3>$ {{ array_get($result, 'total.after.0') }}</h3>
                         <span>final</span>
                     </li>
-                    <li>
-                        <button>Contratar</button>
-                    </li>
                 </ul>
             </div>
         </div>
